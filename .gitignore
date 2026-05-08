@@ -162,5 +162,4 @@ logs/
 # Temporary files
 *.tmp
 *.temp
-resource
 src/__pycache__/
