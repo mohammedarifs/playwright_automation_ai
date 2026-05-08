@@ -8,5 +8,5 @@ def test_scripting():
         browser = p.webkit.launch()
         page = browser.new_page()
         page.goto("https://playwright.dev/")
-        page.screenshot(path="./resource/example.png")
+        page.screenshot(path="./screenshots/example.png")
         browser.close()

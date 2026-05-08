@@ -163,3 +163,5 @@ logs/
 *.tmp
 *.temp
 src/__pycache__/
+results
+resource
